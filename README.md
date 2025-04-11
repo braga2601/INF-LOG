@@ -11,8 +11,8 @@ https://github.com/braga2601/INF-LOG/blob/0400ce6c0fee1bb98afa80841fa200cce6ec32
 ## 4° Atividade 
 ## 5° Atividade em Dupla Excel e PowerBi
 
+https://github.com/braga2601/INF-LOG/blob/2a24ffffe68f0733f6b8ca179d23775a2d6c2280/Atividade%20Excel%20Inf..xlsx
 ![image](https://github.com/user-attachments/assets/bc8b9e74-57ef-4f55-bc8d-b887b3612cff)
-
 
 https://github.com/braga2601/INF-LOG/blob/f4d6c984f188dc93641737c2a2d415150b263a6d/trabalho%20gui%20e%20vini.pbix
 ![image](https://github.com/user-attachments/assets/dddb5399-0aff-441c-8e21-81fd1ee89174)
