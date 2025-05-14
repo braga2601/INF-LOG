@@ -19,12 +19,15 @@ https://github.com/braga2601/INF-LOG/blob/f4d6c984f188dc93641737c2a2d415150b263a
 ## 6° Atividade excel e google collab - consumo cervejA
 
 EXCEL : 
-[Uploading Consumo_cerveja.csv braga.csv…]()
+
+https://github.com/braga2601/INF-LOG/blob/fd1aaefc5cbf39d4ba5601321114ab801cdfebfc/Consumo_cerveja.csv%20braga.xlsx
+
 ![image](https://github.com/user-attachments/assets/2e72f2af-fba2-43a6-bfe7-3dbd4973aa64)
 
 
 
 GOOGLE COLLAB :
+
 ![image](https://github.com/user-attachments/assets/e0b621ec-8c5e-4393-a974-b03ff21e5167)
 
 
