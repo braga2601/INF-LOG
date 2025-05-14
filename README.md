@@ -15,8 +15,12 @@
 
 [Acesse meu projeto](https://github.com/braga2601/INF-LOG/blob/f4d6c984f188dc93641737c2a2d415150b263a6d/trabalho%20gui%20e%20vini.pbix)
 ![image](https://github.com/user-attachments/assets/dddb5399-0aff-441c-8e21-81fd1ee89174)
+
 ## 6° Atividade excel e google collab - Consumo de Sorvete 
+
 Excel : 
+
+[Acesse meu projeto](Ice Cream Excel.xlsx)
 
 
 
