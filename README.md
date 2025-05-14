@@ -23,6 +23,7 @@ Excel :
 
 
 GOOGLE COLLAB: 
+[Acesse meu projeto]
 ![image](https://github.com/user-attachments/assets/b7ea9b43-a35a-41a7-a4cf-97d2335e8f59)
 
 
