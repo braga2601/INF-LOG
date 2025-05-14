@@ -20,7 +20,7 @@ https://github.com/braga2601/INF-LOG/blob/f4d6c984f188dc93641737c2a2d415150b263a
 
 EXCEL : 
 
-https://github.com/braga2601/INF-LOG/raw/fd1aaefc5cbf39d4ba5601321114ab801cdfebfc/Atividade%20Excel%20Inf..xlsx
+[Acesse meu projeto](https://github.com/braga2601/INF-LOG/raw/fd1aaefc5cbf39d4ba5601321114ab801cdfebfc/Atividade%20Excel%20Inf..xlsx)
 
 ![image](https://github.com/user-attachments/assets/2e72f2af-fba2-43a6-bfe7-3dbd4973aa64)
 
