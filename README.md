@@ -22,7 +22,7 @@ Excel :
 
 
 GOOGLE COLLAB: 
-[Acesse meu projeto](
+[Acesse meu projeto](CONSUMO1.ipynb)
 ![image](https://github.com/user-attachments/assets/b7ea9b43-a35a-41a7-a4cf-97d2335e8f59)
 
 
