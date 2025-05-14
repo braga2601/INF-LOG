@@ -27,7 +27,7 @@ EXCEL :
 
 
 GOOGLE COLLAB :
-[Acesse meu projeto[(https://fatecspgov-my.sharepoint.com/:u:/g/personal/guilherme_braga7_fatec_sp_gov_br/EW0faaVFiRhIqRhl4v7vuVkBlO-NzKzfiyBHRmJF4kv_xg?e=W3Txo0)
+[Acesse meu projeto](https://colab.research.google.com/drive/1kd3q2ehOwagyyQTnn7ufMcS319EPYqwK?authuser=0#scrollTo=qVLza_NFKpiy)
 
 ![image](https://github.com/user-attachments/assets/e0b621ec-8c5e-4393-a974-b03ff21e5167)
 
