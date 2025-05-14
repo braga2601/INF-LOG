@@ -19,8 +19,8 @@ https://github.com/braga2601/INF-LOG/blob/f4d6c984f188dc93641737c2a2d415150b263a
 ## 6° Atividade excel e google collab - consumo cervejA
 
 EXCEL : 
-5183,180733
-![image](https://github.com/user-attachments/assets/98d89f63-ad2a-4ce4-b6d0-eb6df6c7a5cb)
+![image](https://github.com/user-attachments/assets/3763b4d6-286a-49d4-8c64-34e051e59a8a)
+
 
 GOOGLE COLLAB :
 ![image](https://github.com/user-attachments/assets/e0b621ec-8c5e-4393-a974-b03ff21e5167)
