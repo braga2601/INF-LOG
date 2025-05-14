@@ -16,3 +16,13 @@ https://github.com/braga2601/INF-LOG/blob/2a24ffffe68f0733f6b8ca179d23775a2d6c22
 
 https://github.com/braga2601/INF-LOG/blob/f4d6c984f188dc93641737c2a2d415150b263a6d/trabalho%20gui%20e%20vini.pbix
 ![image](https://github.com/user-attachments/assets/dddb5399-0aff-441c-8e21-81fd1ee89174)
+## 6° Atividade excel e google collab - consumo cervejA
+
+EXCEL : 
+5183,180733
+![image](https://github.com/user-attachments/assets/98d89f63-ad2a-4ce4-b6d0-eb6df6c7a5cb)
+
+GOOGLE COLLAB :
+![image](https://github.com/user-attachments/assets/e0b621ec-8c5e-4393-a974-b03ff21e5167)
+
+
