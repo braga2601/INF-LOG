@@ -6,7 +6,7 @@
 [Acesse meu projeto](https://github.com/braga2601/INF-LOG/blob/0400ce6c0fee1bb98afa80841fa200cce6ec32a7/Dicionario%20Guilherme%20Braga.xlsx)
 ![image](https://github.com/user-attachments/assets/c8ae98c0-bf9c-4d68-8030-0fc9c8d8cbaa)
 ## 3° Atividade Dados Abertos
-![image](https://github.com/user-attachments/assets/ecdce5f1-760a-432d-a3fa-1220d4a074b5)
+![image](https://github.com/user-attachments/assets/ecdce5f1-760a-432d-a3fa-1220d4a074b5) 
 ## 4° Atividade 
 ## 5° Atividade em Dupla Excel e PowerBi
 
