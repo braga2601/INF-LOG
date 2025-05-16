@@ -20,7 +20,7 @@
 
 Excel : 
 
-[Acesse meu projeto](https://github.com/braga2601/INF-LOG/blob/8b6c861f4988d477f63f799c99d82e54b6022759/Ice%20Creamgui2.xlsx)
+[Acesse meu projeto](https://github.com/braga2601/INF-LOG/raw/refs/heads/main/Ice%20Cream%20Excel.xlsx)
 
 
 
