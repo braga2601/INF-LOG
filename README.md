@@ -56,6 +56,8 @@ GOOGLE COLLAB :
 
 EXCEL: 
 [Acesse meu projeto](https://drive.google.com/file/d/1c_xXO3OXgwv7-N4W5lYlLXw__fUFoljc/view?usp=drive_link)
+![image](https://github.com/user-attachments/assets/e175307c-690e-435c-beac-70b99cebcdae)
+
 
 
 
