@@ -54,7 +54,8 @@ GOOGLE COLLAB :
 
 ## 8° Atividade excel e google collab - Venda de Casa 
 
-EXCEL:
+EXCEL: 
+[Acesse meu projeto](https://drive.google.com/file/d/1c_xXO3OXgwv7-N4W5lYlLXw__fUFoljc/view?usp=drive_link)
 
 
 
