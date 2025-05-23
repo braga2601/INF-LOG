@@ -54,7 +54,15 @@ GOOGLE COLLAB :
 
 ## 8° Atividade excel e google collab - Venda de Casa 
 
-EXCEL: 
+EXCEL:
+
+
+
+
+GOOGLE COLLAB: 
+
 [Acesse meu projeto](https://github.com/braga2601/INF-LOG/raw/refs/heads/main/Vendas_De_Casa.ipynb)
+![image](https://github.com/user-attachments/assets/d25e9e1a-03e1-4117-bf21-4318ab7d8c88)
+
 
 
