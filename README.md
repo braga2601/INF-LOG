@@ -52,4 +52,9 @@ GOOGLE COLLAB :
 
 ![image](https://github.com/user-attachments/assets/e0b621ec-8c5e-4393-a974-b03ff21e5167)
 
+## 8° Atividade excel e google collab - Venda de Casa 
+
+EXCEL: 
+[Acesse meu projeto](
+
 
