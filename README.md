@@ -75,36 +75,36 @@ EXCEL:
 GOOGLE COLLAB: 
 
 🔗[Acesse meu projeto](https://github.com/braga2601/INF-LOG/raw/refs/heads/main/Vendas_De_Casa.ipynb)
-📸
+
 ![image](https://github.com/user-attachments/assets/d25e9e1a-03e1-4117-bf21-4318ab7d8c88)
 
 ## 💠 9° Atividade Excel ( custo , receita e lucro )💠
 Panela
 
 🔗[Acesse meu projeto](https://github.com/braga2601/INF-LOG/raw/refs/heads/main/Graf%20Guilherme%20prod.sorvete.xlsx)
-📸
+
 ![image](https://github.com/user-attachments/assets/70913b00-a73d-4689-b7f6-b00c3b3f05c9)
 
 Produtos
 
 [🔗Acesse meu projeto](https://github.com/braga2601/INF-LOG/raw/refs/heads/main/Graf%20Guilherme%20prod.sorvete.xlsx)
-📸![image](https://github.com/user-attachments/assets/a0fadd95-f395-4469-8551-135e336150d7)
+![image](https://github.com/user-attachments/assets/a0fadd95-f395-4469-8551-135e336150d7)
 
 Sorvete
 
 [🔗Acesse meu projeto](https://github.com/braga2601/INF-LOG/raw/refs/heads/main/Graf%20Guilherme%20prod.sorvete.xlsx)
-📸
+
 ![image](https://github.com/user-attachments/assets/30db090e-ba19-43e8-a2d4-becb141130bf)
 
 Computador 
 
 🔗[Acesse meu projeto](https://github.com/braga2601/INF-LOG/raw/refs/heads/main/Graf%20Guilherme%20sandalias_computador.xlsx)
-📸![image](https://github.com/user-attachments/assets/9a13e31e-2595-43ea-8621-0b7369492716)
+![image](https://github.com/user-attachments/assets/9a13e31e-2595-43ea-8621-0b7369492716)
 
 Sandalia 
 
 [Acesse meu projeto](https://github.com/braga2601/INF-LOG/raw/refs/heads/main/Graf%20Guilherme%20sandalias_computador.xlsx)
-📸
+
 ![image](https://github.com/user-attachments/assets/b4aef22c-d55e-486d-bc4c-de68e07e2c88)
 
 ## 💠 10° Atividade Power Apps ( criação do App )💠
