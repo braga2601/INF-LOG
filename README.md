@@ -93,6 +93,12 @@ Sandalia
 https://github.com/braga2601/INF-LOG/raw/refs/heads/main/Graf%20Guilherme%20sandalias_computador.xlsx
 ![image](https://github.com/user-attachments/assets/b4aef22c-d55e-486d-bc4c-de68e07e2c88)
 
+## 10° Atividade Power Apps ( criação do App ) 
+
+[Acesse meu projeto](
+https://github.com/user-attachments/assets/d534c7f3-10f9-4e54-bc75-ff49e8f039f5
+
+
 
 
 
