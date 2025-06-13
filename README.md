@@ -14,6 +14,8 @@
 ![image](https://github.com/user-attachments/assets/ecdce5f1-760a-432d-a3fa-1220d4a074b5) 
 
 ## 💠 4° Atividade 💠
+![image](https://github.com/user-attachments/assets/17f9b18d-ae2c-4738-8700-3ede2434dac5)
+
 
 ## 💠 5° Atividade em Dupla Excel e PowerBi💠
 🔗[Acesse meu projeto](https://github.com/braga2601/INF-LOG/blob/2a24ffffe68f0733f6b8ca179d23775a2d6c2280/Atividade%20Excel%20Inf..xlsx)
@@ -110,6 +112,10 @@ Sandalia
 ## 💠 10° Atividade Power Apps ( criação do App )💠
 
 🔗[Acesse meu projeto](https://github.com/user-attachments/assets/d534c7f3-10f9-4e54-bc75-ff49e8f039f5)
+
+Automate : 
+https://github.com/user-attachments/assets/b3dbb9c5-6f73-46ec-9c80-2934b9189df4
+
 
 
 
