@@ -1,22 +1,21 @@
 
-## 💠 1° Atividade Apresentação Pessoal
+## 💠 1° Atividade Apresentação Pessoal💠
 [Acesse meu projeto](https://www.canva.com/design/DAGfsda_pds/I_vLEvwjObxcAmmvRj8x0g/view?utm_content=DAGfsda_pds&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1e599a5ef9)
 ![image](https://github.com/user-attachments/assets/f2cad49a-d8ca-42ca-8e87-2674798a8f92)
-## 💠 2° Atividade Excel
+## 💠 2° Atividade Excel💠
 [Acesse meu projeto](https://github.com/braga2601/INF-LOG/blob/0400ce6c0fee1bb98afa80841fa200cce6ec32a7/Dicionario%20Guilherme%20Braga.xlsx)
 ![image](https://github.com/user-attachments/assets/c8ae98c0-bf9c-4d68-8030-0fc9c8d8cbaa)
-## 3° Atividade Dados Abertos
+## 💠 3° Atividade Dados Abertos💠
 ![image](https://github.com/user-attachments/assets/ecdce5f1-760a-432d-a3fa-1220d4a074b5) 
-## 💠 4° Atividade 
-## 💠 5° Atividade em Dupla Excel e PowerBi
-
+## 💠 4° Atividade 💠
+## 💠 5° Atividade em Dupla Excel e PowerBi💠
 [Acesse meu projeto](https://github.com/braga2601/INF-LOG/blob/2a24ffffe68f0733f6b8ca179d23775a2d6c2280/Atividade%20Excel%20Inf..xlsx)
 ![image](https://github.com/user-attachments/assets/bc8b9e74-57ef-4f55-bc8d-b887b3612cff)
 
 [Acesse meu projeto](https://github.com/braga2601/INF-LOG/blob/f4d6c984f188dc93641737c2a2d415150b263a6d/trabalho%20gui%20e%20vini.pbix)
 ![image](https://github.com/user-attachments/assets/dddb5399-0aff-441c-8e21-81fd1ee89174)
 
-## 💠 6° Atividade excel e google collab - Consumo de Sorvete 
+## 💠 6° Atividade excel e google collab - Consumo de Sorvete 💠 
 
 Excel : 
 
@@ -36,7 +35,7 @@ GOOGLE COLLAB:
 
 
 
-## 💠 7° Atividade excel e google collab - Consumo Cerveja
+## 💠 7° Atividade excel e google collab - Consumo Cerveja💠
 
 EXCEL : 
 
@@ -52,7 +51,7 @@ GOOGLE COLLAB :
 
 ![image](https://github.com/user-attachments/assets/e0b621ec-8c5e-4393-a974-b03ff21e5167)
 
-## 💠 8° Atividade excel e google collab - Venda de Casa 
+## 💠 8° Atividade excel e google collab - Venda de Casa💠
 
 
 EXCEL: 
@@ -68,7 +67,7 @@ GOOGLE COLLAB:
 [Acesse meu projeto](https://github.com/braga2601/INF-LOG/raw/refs/heads/main/Vendas_De_Casa.ipynb)
 ![image](https://github.com/user-attachments/assets/d25e9e1a-03e1-4117-bf21-4318ab7d8c88)
 
-## 💠 9° Atividade Excel ( custo , receita e lucro )
+## 💠 9° Atividade Excel ( custo , receita e lucro )💠
 Panela
 
 [Acesse meu projeto](https://github.com/braga2601/INF-LOG/raw/refs/heads/main/Graf%20Guilherme%20prod.sorvete.xlsx)
@@ -94,7 +93,7 @@ Sandalia
 [Acesse meu projeto](https://github.com/braga2601/INF-LOG/raw/refs/heads/main/Graf%20Guilherme%20sandalias_computador.xlsx)
 ![image](https://github.com/user-attachments/assets/b4aef22c-d55e-486d-bc4c-de68e07e2c88)
 
-## 💠 10° Atividade Power Apps ( criação do App ) 
+## 💠 10° Atividade Power Apps ( criação do App )💠
 
 [Acesse meu projeto](https://github.com/user-attachments/assets/d534c7f3-10f9-4e54-bc75-ff49e8f039f5)
 
