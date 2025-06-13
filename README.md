@@ -116,6 +116,9 @@ Sandalia
 Automate : 
 🔗[Acesse meu projeto](https://github.com/braga2601/INF-LOG/raw/refs/heads/main/fretes.mp4)
 
+https://github.com/user-attachments/assets/5c6fcd75-af46-4a9d-87af-5d4d423c785d
+
+
 
 
 
