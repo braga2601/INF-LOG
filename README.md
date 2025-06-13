@@ -95,8 +95,7 @@ https://github.com/braga2601/INF-LOG/raw/refs/heads/main/Graf%20Guilherme%20sand
 
 ## 10° Atividade Power Apps ( criação do App ) 
 
-[Acesse meu projeto](
-https://github.com/user-attachments/assets/d534c7f3-10f9-4e54-bc75-ff49e8f039f5
+[Acesse meu projeto](https://github.com/user-attachments/assets/d534c7f3-10f9-4e54-bc75-ff49e8f039f5)
 
 
 
