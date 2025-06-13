@@ -85,12 +85,12 @@ Sorvete
 
 Computador 
 
-https://github.com/braga2601/INF-LOG/raw/refs/heads/main/Graf%20Guilherme%20sandalias_computador.xlsx
+[Acesse meu projeto](https://github.com/braga2601/INF-LOG/raw/refs/heads/main/Graf%20Guilherme%20sandalias_computador.xlsx)
 ![image](https://github.com/user-attachments/assets/9a13e31e-2595-43ea-8621-0b7369492716)
 
 Sandalia 
 
-https://github.com/braga2601/INF-LOG/raw/refs/heads/main/Graf%20Guilherme%20sandalias_computador.xlsx
+[Acesse meu projeto](https://github.com/braga2601/INF-LOG/raw/refs/heads/main/Graf%20Guilherme%20sandalias_computador.xlsx)
 ![image](https://github.com/user-attachments/assets/b4aef22c-d55e-486d-bc4c-de68e07e2c88)
 
 ## 10° Atividade Power Apps ( criação do App ) 
