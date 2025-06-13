@@ -109,8 +109,9 @@ Sandalia
 
 ![image](https://github.com/user-attachments/assets/b4aef22c-d55e-486d-bc4c-de68e07e2c88)
 
-## 💠 10° Atividade Power Apps ( criação do App )💠
+## 💠 10° Atividade Power Apps e Power Automate💠
 
+Apps
 🔗[Acesse meu projeto](https://github.com/user-attachments/assets/de8ff7d2-748c-41cf-800c-eaacde593cbe)
 
 https://github.com/user-attachments/assets/3ef4c872-b62e-493e-b627-d75a9fca37d8
