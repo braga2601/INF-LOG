@@ -114,7 +114,7 @@ Sandalia
 🔗[Acesse meu projeto](https://github.com/user-attachments/assets/d534c7f3-10f9-4e54-bc75-ff49e8f039f5)
 
 Automate : 
-https://github.com/braga2601/INF-LOG/raw/refs/heads/main/fretes.mp4
+🔗[Acesse meu projeto](https://github.com/braga2601/INF-LOG/raw/refs/heads/main/fretes.mp4)
 
 
 
