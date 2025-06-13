@@ -111,9 +111,11 @@ Sandalia
 
 ## 💠 10° Atividade Power Apps ( criação do App )💠
 
-🔗[Acesse meu projeto](https://github.com/user-attachments/assets/d534c7f3-10f9-4e54-bc75-ff49e8f039f5)
-
+🔗[Acesse meu projeto](https://github.com/user-attachments/assets/de8ff7d2-748c-41cf-800c-eaacde593cbe)
 Automate : 
+
+
+
 🔗[Acesse meu projeto](https://github.com/braga2601/INF-LOG/raw/refs/heads/main/fretes.mp4)
 
 https://github.com/user-attachments/assets/5c6fcd75-af46-4a9d-87af-5d4d423c785d
