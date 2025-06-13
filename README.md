@@ -114,7 +114,8 @@ Sandalia
 🔗[Acesse meu projeto](https://github.com/user-attachments/assets/d534c7f3-10f9-4e54-bc75-ff49e8f039f5)
 
 Automate : 
-https://github.com/user-attachments/assets/b3dbb9c5-6f73-46ec-9c80-2934b9189df4
+https://github.com/user-attachments/assets/e46d0655-0763-4fa1-81ef-31e17123db0a
+
 
 
 
