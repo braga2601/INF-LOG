@@ -81,29 +81,29 @@ GOOGLE COLLAB:
 ![image](https://github.com/user-attachments/assets/d25e9e1a-03e1-4117-bf21-4318ab7d8c88)
 
 ## 💠 9° Atividade Excel ( custo , receita e lucro )💠
-Panela
+Panela:
 
 🔗[Acesse meu projeto](https://github.com/braga2601/INF-LOG/raw/refs/heads/main/Graf%20Guilherme%20prod.sorvete.xlsx)
 
 ![image](https://github.com/user-attachments/assets/70913b00-a73d-4689-b7f6-b00c3b3f05c9)
 
-Produtos
+Produtos:
 
 [🔗Acesse meu projeto](https://github.com/braga2601/INF-LOG/raw/refs/heads/main/Graf%20Guilherme%20prod.sorvete.xlsx)
 ![image](https://github.com/user-attachments/assets/a0fadd95-f395-4469-8551-135e336150d7)
 
-Sorvete
+Sorvete:
 
 [🔗Acesse meu projeto](https://github.com/braga2601/INF-LOG/raw/refs/heads/main/Graf%20Guilherme%20prod.sorvete.xlsx)
 
 ![image](https://github.com/user-attachments/assets/30db090e-ba19-43e8-a2d4-becb141130bf)
 
-Computador 
+Computador:
 
 🔗[Acesse meu projeto](https://github.com/braga2601/INF-LOG/raw/refs/heads/main/Graf%20Guilherme%20sandalias_computador.xlsx)
 ![image](https://github.com/user-attachments/assets/9a13e31e-2595-43ea-8621-0b7369492716)
 
-Sandalia 
+Sandalia: 
 
 [Acesse meu projeto](https://github.com/braga2601/INF-LOG/raw/refs/heads/main/Graf%20Guilherme%20sandalias_computador.xlsx)
 
@@ -111,12 +111,12 @@ Sandalia
 
 ## 💠 10° Atividade Power Apps e Power Automate💠
 
-Apps
+Apps:
 🔗[Acesse meu projeto](https://github.com/user-attachments/assets/de8ff7d2-748c-41cf-800c-eaacde593cbe)
 
 https://github.com/user-attachments/assets/3ef4c872-b62e-493e-b627-d75a9fca37d8
 
-Automate : 
+Automate: 
 🔗[Acesse meu projeto](https://github.com/braga2601/INF-LOG/raw/refs/heads/main/fretes.mp4)
 
 https://github.com/user-attachments/assets/5c6fcd75-af46-4a9d-87af-5d4d423c785d
