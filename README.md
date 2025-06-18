@@ -85,11 +85,13 @@ Panela:
 
 🔗[Acesse meu projeto](https://github.com/braga2601/INF-LOG/raw/refs/heads/main/Graf%20Guilherme%20prod.sorvete.xlsx)
 
+
 ![image](https://github.com/user-attachments/assets/70913b00-a73d-4689-b7f6-b00c3b3f05c9)
 
 Produtos:
 
 [🔗Acesse meu projeto](https://github.com/braga2601/INF-LOG/raw/refs/heads/main/Graf%20Guilherme%20prod.sorvete.xlsx)
+
 ![image](https://github.com/user-attachments/assets/a0fadd95-f395-4469-8551-135e336150d7)
 
 Sorvete:
@@ -105,7 +107,7 @@ Computador:
 
 Sandalia: 
 
-[Acesse meu projeto](https://github.com/braga2601/INF-LOG/raw/refs/heads/main/Graf%20Guilherme%20sandalias_computador.xlsx)
+🔗[Acesse meu projeto](https://github.com/braga2601/INF-LOG/raw/refs/heads/main/Graf%20Guilherme%20sandalias_computador.xlsx)
 
 ![image](https://github.com/user-attachments/assets/b4aef22c-d55e-486d-bc4c-de68e07e2c88)
 
