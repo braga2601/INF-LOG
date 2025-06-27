@@ -125,6 +125,11 @@ Automate:
 
 https://github.com/user-attachments/assets/5c6fcd75-af46-4a9d-87af-5d4d423c785d
 
+## 📌 QUESTÃO 1 PROVA INFORMATICA CRIAÇÃO DO APP 
+
+🔗[Acesse meu projeto]( [GRAVAÇÃO TELA APP.zip](https://github.com/user-attachments/files/20936805/GRAVACAO.TELA.APP.zip))
+
+
 
 
 
