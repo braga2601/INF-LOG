@@ -128,7 +128,12 @@ https://github.com/user-attachments/assets/5c6fcd75-af46-4a9d-87af-5d4d423c785d
 ## 📌 QUESTÃO 1 PROVA INFORMATICA CRIAÇÃO DO APP 
 
 🔗([GRAVAÇÃO TELA APP.zip](https://github.com/user-attachments/files/20936805/GRAVACAO.TELA.APP.zip))
-![image](https://github.com/user-attachments/assets/a2c655a1-6eb9-4304-922e-911959b8f658)
+![image](https://github.com/user-attachments/assets/a2c655a1-6eb9-4304-922e-911959b8f658
+
+
+## 📌 QUESTÃO 2 PROVA INFORMATICA CRIAÇÃO DOS GRAFICOS E MAPA
+🔗[Acesse meu projeto](https://github.com/braga2601/INF-LOG/raw/refs/heads/main/PROVA%20POWER%20BI.pbix)
+![image](https://github.com/user-attachments/assets/57774fe7-02f8-4638-9020-26fd511895d3)
 
 
 
